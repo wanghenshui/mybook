@@ -2,7 +2,7 @@
 
 --2017书单
 
-+ greate minds：[source](https://github.com/camda/mybook/tree/master/great%20minds)  
++ greate minds：[source](https://github.com/camda/mybook/tree/master/minds)  
 	+ 深入浅出设计模式
 	+ 人月神话
 	+ 代码整洁之道
@@ -20,6 +20,11 @@
 + smart：[source](https://github.com/camda/mybook/tree/master/smart)
 	+ 周志华-机器学习
 	+ 周志华-数据挖掘与机器学习
+	+ Spark机器学习
+	+ Machine Learning in Action
+	+ 机器学习十大算法
+	+ 机器学习实战
+	+ Machine Learning in Action SourceCode
 
 + framework：[source](https://github.com/camda/mybook/tree/master/framework)
 	+ Hibernate开发指南
@@ -27,6 +32,7 @@
 	+ Spring源码深度解析
 	+ dubbo源码解析2.0
 	+ ZooKeeper
+	
 + other: [source](https://github.com/camda/mybook/tree/master/other)
 	+ 产品经理手册
 	+ 经济学原理
