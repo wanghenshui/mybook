@@ -16,6 +16,7 @@
 
 + java：[source](https://github.com/zhongyp/mybook/tree/master/java)
 	+ Java_TCPIP_Socket网络编程
+	+ Java并发艺术
 
 + smart：[source](https://github.com/zhongyp/mybook/tree/master/smart)
 	+ 周志华-机器学习
