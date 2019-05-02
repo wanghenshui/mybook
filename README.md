@@ -1,6 +1,32 @@
 ## 书架
++ architecture
+  + SOA服务管控和治理四.pdf
+  + Zabbi 监控系统深度实践 带书签目录 完整版.pdf
+  + ZooKeeper在携程的使用和场景.pdf
+  + zookeeper双数据中心容灾研究.pdf
+  + 中国区块链技术和应用发展白皮书.pdf
+  + 亿级流量网站架构核心技术 跟开涛学搭建高可用高并发系统.pdf
+  + 从PAXOS到ZOOKEEPER分布式一致性原理与实践.pdf
+  + 全面认识微服务&SpringCloud_Jack_张振华.pdf
+  + 分布式Java应用：基础与实践.pdf
+  + 分布式服务框架原理与实践_李林锋著.pdf
+  + 分布式混合云DevOps实践.pdf
+  + 基于区块链的分布式超级计算项目（分布式渲染） supercomputing.pdf
+  + 大型分布式网站架构设计与实践.带目录书签.完整版.pdf
+  + 大型网站系统与Java中间件实践(jb51.net).pdf
+  + 大数据 互联网大规模数据挖掘与分布式处理 第2版 2015.7.pdf
+  + 尽在双⒒_阿里巴巴技术演进与超越.pdf
+  + 微信 朋友圈技术之道wechat_moments_architecture_201512.pdf
+  + 微服务架构如何落地实践.pdf
+  + 服务治理中间件dubbo原理解析.pdf
+  + 程序员必读之软件架构.pdf
+  + 阿里分布式消息系统ONS原理与实践.pdf
 
-+ greate minds：[source](https://github.com/zhongyp/mybook/tree/master/minds)  
++ chm
+  + JAVA设计模式.chm	
+  + Spring2.5-.chm
+
++ minds
 	+ 深入浅出设计模式
 	+ 人月神话
 	+ 代码整洁之道
@@ -12,28 +38,26 @@
 	+ Java程序员修炼之道
 	+ 算法导论3
 
-+ coder：[source](https://github.com/zhongyp/mybook/tree/master/coder)
++ coder
+	+ Effective Java第二版
+	+ Go语言实战
+	+ Netty权威指南
+	+ 利用python进行数据分析
+
++ java
 	+ Java_TCPIP_Socket网络编程
 	+ Java并发艺术
 	+ Effective Java第二版
 	+ Effective Unit Testing
-	+ elasticsearch-the-definitive-guide-cn
-	+ Elasticsearch服务器开发 第二版
-	+ Go语言实战
 	+ Java8实战
 	+ Java NIO（中文版）
 	+ Java多线程设计模式
 	+ Java并发编程实践
 	+ Java问题定位技术
-	+ Kafka深度解析
-	+ Netty权威指南
-	+ RabbitMQ使用参考
 	+ TCP-IP详解卷一
-	+ 利用python进行数据分析
 	+ 实战Java高并发程序设计
-	+ Google Guava官方教程
-
-+ smart：[source](https://github.com/zhongyp/mybook/tree/master/smart)
+	
++ smart
 	+ 周志华-机器学习
 	+ 周志华-数据挖掘与机器学习
 	+ Spark机器学习
@@ -42,7 +66,7 @@
 	+ 机器学习实战
 	+ Machine Learning in Action SourceCode
 
-+ framework：[source](https://github.com/zhongyp/mybook/tree/master/framework)
++ framework
 	+ Hibernate开发指南
 	+ SpringGuide
 	+ Spring源码深度解析
@@ -54,12 +78,13 @@
 	+ Jenkins权威指南
 	+ Spring boot实战（丁雪丰）
 	+ Spring boot张卫滨
-	+ 全面认识微服务&SpringCloud
 	+ 分布式系统原理与范型
 	+ 框架设计原则（梁飞）
 	+ Dubbo项目结构解析
+	+ Kafka深度解析
+
 	
-+ database: [source](https://github.com/zhongyp/mybook/tree/master/database)
++ database
 	+ 高性能MySQL 第3版
 	+ MySQL技术内幕
 	+ Redis实战
@@ -69,7 +94,7 @@
 	+ redis设计与实现
 	+ 网易分布式数据库DDB
 
-+ utils: [source](https://github.com/zhongyp/mybook/tree/master/utils)
++ utils
 	+ Git和特性开发
 	+ HTTPS权威指南
 	+ idea使用教程
@@ -80,7 +105,7 @@
 	+ 深入理解JVM虚拟机
  
 	
-+ other: [source](https://github.com/zhongyp/mybook/tree/master/other)
++ other
 	+ 产品经理手册
 	+ 经济学原理
 	+ 你要如何衡量你的人生
