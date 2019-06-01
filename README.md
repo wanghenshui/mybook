@@ -43,6 +43,11 @@
 	+ Go语言实战
 	+ Netty权威指南
 	+ 利用python进行数据分析
+	+ Netty实战.epub
+	+ Netty实战.mobi
+	+ UNIX环境高级编程（中文第2版）.pdf
+	+ UNIX网络编程卷1：套接字联网API（第3版）.pdf
+	+ UNIX网络编程卷2：进程间通信（第2版）.pdf
 
 + java
 	+ Java_TCPIP_Socket网络编程
